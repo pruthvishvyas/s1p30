@@ -1,0 +1,18 @@
+{
+  "id": "flag_distribution",
+  "title": "Returns by abuse flag",
+  "type": "bar",
+  "x_label": "Flag",
+  "y_label": "Returns",
+  "data": [
+    {
+      "label": "Not flagged",
+      "value": 808.0
+    },
+    {
+      "label": "Suspected abuse",
+      "value": 192.0
+    }
+  ],
+  "outcome": "understand"
+}

@@ -1,0 +1,82 @@
+{
+  "id": "abuse_rate_heatmap",
+  "title": "Suspected abuse rate by category and customer type",
+  "type": "heatmap",
+  "x_label": "Customer type",
+  "y_label": "Category",
+  "data": [
+    {
+      "label": "Beauty | New",
+      "value": 0.3373
+    },
+    {
+      "label": "Beauty | Returning",
+      "value": 0.1
+    },
+    {
+      "label": "Beauty | VIP",
+      "value": 0.5
+    },
+    {
+      "label": "Electronics | New",
+      "value": 0.24
+    },
+    {
+      "label": "Electronics | Returning",
+      "value": 0.0597
+    },
+    {
+      "label": "Electronics | VIP",
+      "value": 0.3462
+    },
+    {
+      "label": "Fashion | New",
+      "value": 0.4675
+    },
+    {
+      "label": "Fashion | Returning",
+      "value": 0.1009
+    },
+    {
+      "label": "Fashion | VIP",
+      "value": 0.3115
+    },
+    {
+      "label": "Home & Living | New",
+      "value": 0.0
+    },
+    {
+      "label": "Home & Living | Returning",
+      "value": 0.0
+    },
+    {
+      "label": "Home & Living | VIP",
+      "value": 0.0
+    },
+    {
+      "label": "Sports | New",
+      "value": 0.0
+    },
+    {
+      "label": "Sports | Returning",
+      "value": 0.0
+    },
+    {
+      "label": "Sports | VIP",
+      "value": 0.0
+    },
+    {
+      "label": "Toys | New",
+      "value": 0.0
+    },
+    {
+      "label": "Toys | Returning",
+      "value": 0.0
+    },
+    {
+      "label": "Toys | VIP",
+      "value": 0.0
+    }
+  ],
+  "outcome": "monitor"
+}

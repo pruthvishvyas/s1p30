@@ -1,0 +1,90 @@
+{
+  "id": "days_to_return_by_flag",
+  "title": "Days to return by abuse flag",
+  "type": "histogram",
+  "x_label": "Days to return",
+  "y_label": "Returns",
+  "data": [
+    {
+      "label": "1-3 | Not flagged",
+      "value": 100
+    },
+    {
+      "label": "3-6 | Not flagged",
+      "value": 212
+    },
+    {
+      "label": "6-9 | Not flagged",
+      "value": 186
+    },
+    {
+      "label": "9-12 | Not flagged",
+      "value": 139
+    },
+    {
+      "label": "12-15 | Not flagged",
+      "value": 90
+    },
+    {
+      "label": "15-18 | Not flagged",
+      "value": 34
+    },
+    {
+      "label": "18-21 | Not flagged",
+      "value": 19
+    },
+    {
+      "label": "21-24 | Not flagged",
+      "value": 21
+    },
+    {
+      "label": "24-27 | Not flagged",
+      "value": 4
+    },
+    {
+      "label": "27-30 | Not flagged",
+      "value": 3
+    },
+    {
+      "label": "1-3 | Suspected abuse",
+      "value": 25
+    },
+    {
+      "label": "3-6 | Suspected abuse",
+      "value": 43
+    },
+    {
+      "label": "6-9 | Suspected abuse",
+      "value": 42
+    },
+    {
+      "label": "9-12 | Suspected abuse",
+      "value": 30
+    },
+    {
+      "label": "12-15 | Suspected abuse",
+      "value": 25
+    },
+    {
+      "label": "15-18 | Suspected abuse",
+      "value": 11
+    },
+    {
+      "label": "18-21 | Suspected abuse",
+      "value": 6
+    },
+    {
+      "label": "21-24 | Suspected abuse",
+      "value": 5
+    },
+    {
+      "label": "24-27 | Suspected abuse",
+      "value": 1
+    },
+    {
+      "label": "27-30 | Suspected abuse",
+      "value": 4
+    }
+  ],
+  "outcome": "understand"
+}

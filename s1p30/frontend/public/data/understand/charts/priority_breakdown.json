@@ -1,0 +1,22 @@
+{
+  "id": "priority_breakdown",
+  "title": "Returns by priority",
+  "type": "bar",
+  "x_label": "Priority",
+  "y_label": "Returns",
+  "data": [
+    {
+      "label": "P1_URGENT",
+      "value": 314
+    },
+    {
+      "label": "P2_HIGH",
+      "value": 491
+    },
+    {
+      "label": "P3_MEDIUM",
+      "value": 195
+    }
+  ],
+  "outcome": "decide"
+}

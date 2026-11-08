@@ -1,0 +1,20 @@
+{
+  "features": [
+    "Returned_Order_Value",
+    "Days_to_Return",
+    "Profit_Lost_to_Return",
+    "Customer_Return_Count_Dataset",
+    "Discount_pct",
+    "Processing_Days",
+    "return_cost_ratio"
+  ],
+  "silhouette": 0.1660398794548913,
+  "cluster_names": {
+    "1": "Low",
+    "2": "Medium",
+    "0": "High"
+  },
+  "anomaly_count": 50,
+  "anomaly_abuse_rate": 0.42,
+  "normal_abuse_rate": 0.18
+}

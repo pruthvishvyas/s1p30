@@ -1,0 +1,57 @@
+{
+  "id": "abuse_reduction",
+  "title": "Reduce suspected abuse returns",
+  "variable": "reduction_pct",
+  "unit": "percent of flagged returns prevented",
+  "assumptions": {
+    "flagged_returns": 192,
+    "flagged_profit_lost": 16241.46,
+    "note": "prevented returns save their full recorded profit loss"
+  },
+  "points": [
+    {
+      "reduction_pct": 0,
+      "profit_saved": 0.0
+    },
+    {
+      "reduction_pct": 5,
+      "profit_saved": 812.07
+    },
+    {
+      "reduction_pct": 10,
+      "profit_saved": 1624.15
+    },
+    {
+      "reduction_pct": 15,
+      "profit_saved": 2436.22
+    },
+    {
+      "reduction_pct": 20,
+      "profit_saved": 3248.29
+    },
+    {
+      "reduction_pct": 25,
+      "profit_saved": 4060.36
+    },
+    {
+      "reduction_pct": 30,
+      "profit_saved": 4872.44
+    },
+    {
+      "reduction_pct": 35,
+      "profit_saved": 5684.51
+    },
+    {
+      "reduction_pct": 40,
+      "profit_saved": 6496.58
+    },
+    {
+      "reduction_pct": 45,
+      "profit_saved": 7308.66
+    },
+    {
+      "reduction_pct": 50,
+      "profit_saved": 8120.73
+    }
+  ]
+}

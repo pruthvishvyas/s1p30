@@ -1,0 +1,42 @@
+{
+  "segments": [
+    {
+      "segment": "High",
+      "returns": 49,
+      "profit_lost": 11452.34,
+      "abuse_rate": 0.2449
+    },
+    {
+      "segment": "Low",
+      "returns": 358,
+      "profit_lost": 19629.02,
+      "abuse_rate": 0.1285
+    },
+    {
+      "segment": "Medium",
+      "returns": 593,
+      "profit_lost": 40392.76,
+      "abuse_rate": 0.226
+    }
+  ],
+  "meta": {
+    "features": [
+      "Returned_Order_Value",
+      "Days_to_Return",
+      "Profit_Lost_to_Return",
+      "Customer_Return_Count_Dataset",
+      "Discount_pct",
+      "Processing_Days",
+      "return_cost_ratio"
+    ],
+    "silhouette": 0.1660398794548913,
+    "cluster_names": {
+      "1": "Low",
+      "2": "Medium",
+      "0": "High"
+    },
+    "anomaly_count": 50,
+    "anomaly_abuse_rate": 0.42,
+    "normal_abuse_rate": 0.18
+  }
+}

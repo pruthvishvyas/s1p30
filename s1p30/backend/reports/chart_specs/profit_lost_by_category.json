@@ -1,0 +1,34 @@
+{
+  "id": "profit_lost_by_category",
+  "title": "Profit lost by category",
+  "type": "bar",
+  "x_label": "Category",
+  "y_label": "Profit lost",
+  "data": [
+    {
+      "label": "Fashion",
+      "value": 26508.45
+    },
+    {
+      "label": "Electronics",
+      "value": 17108.17
+    },
+    {
+      "label": "Beauty",
+      "value": 10724.8
+    },
+    {
+      "label": "Home & Living",
+      "value": 6942.74
+    },
+    {
+      "label": "Sports",
+      "value": 5499.49
+    },
+    {
+      "label": "Toys",
+      "value": 4690.47
+    }
+  ],
+  "outcome": "understand"
+}

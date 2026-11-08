@@ -1,0 +1,22 @@
+{
+  "weekly_alert": {
+    "week": "2026-09-28/2026-10-04",
+    "change_pct": -71.6,
+    "threshold_pct": 20,
+    "triggered": false
+  },
+  "priority_counts": {
+    "P2_HIGH": 491,
+    "P1_URGENT": 314,
+    "P3_MEDIUM": 195
+  },
+  "alert_counts": {
+    "NEGATIVE_AFTER_RETURN": 1000,
+    "REPEAT_RETURNER": 723,
+    "HIGH_COST_TO_SERVE": 689,
+    "LOW_RECOVERY": 260,
+    "SUSPECTED_ABUSE": 192,
+    "UNUSUAL_RETURN": 50,
+    "MODEL_RISK": 5
+  }
+}

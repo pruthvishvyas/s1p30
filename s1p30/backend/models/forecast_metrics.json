@@ -1,0 +1,41 @@
+{
+  "series": "weekly profit lost",
+  "weeks": 53,
+  "holdout_weeks": 11,
+  "horizon_days": 30,
+  "evaluation": "one week ahead on the final weeks, chronological split",
+  "model": {
+    "name": "Ridge on four lags and trend",
+    "mae": 498.95029269464413,
+    "mape": 0.49883687661652637
+  },
+  "baseline": {
+    "name": "last week value",
+    "mae": 549.9945454545455,
+    "mape": 0.6007946546178343
+  },
+  "beats_baseline": true,
+  "low_sample": false,
+  "future": [
+    {
+      "week_start": "2026-10-05",
+      "predicted": 691.31
+    },
+    {
+      "week_start": "2026-10-12",
+      "predicted": 1012.65
+    },
+    {
+      "week_start": "2026-10-19",
+      "predicted": 1008.88
+    },
+    {
+      "week_start": "2026-10-26",
+      "predicted": 997.06
+    },
+    {
+      "week_start": "2026-11-02",
+      "predicted": 1015.7
+    }
+  ]
+}

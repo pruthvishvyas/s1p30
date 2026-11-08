@@ -1,0 +1,40 @@
+{
+  "id": "recovery_uplift",
+  "title": "Recover more value from returned items",
+  "variable": "uplift_pct",
+  "unit": "percent of the unrecovered cost gap closed",
+  "assumptions": {
+    "unrecovered_cost_gap": 21759.85,
+    "note": "gap is item cost minus recovery value, floored at zero"
+  },
+  "points": [
+    {
+      "uplift_pct": 0,
+      "profit_saved": 0.0
+    },
+    {
+      "uplift_pct": 5,
+      "profit_saved": 1087.99
+    },
+    {
+      "uplift_pct": 10,
+      "profit_saved": 2175.99
+    },
+    {
+      "uplift_pct": 15,
+      "profit_saved": 3263.98
+    },
+    {
+      "uplift_pct": 20,
+      "profit_saved": 4351.97
+    },
+    {
+      "uplift_pct": 25,
+      "profit_saved": 5439.96
+    },
+    {
+      "uplift_pct": 30,
+      "profit_saved": 6527.95
+    }
+  ]
+}

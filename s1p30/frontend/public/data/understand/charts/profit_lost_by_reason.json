@@ -1,0 +1,46 @@
+{
+  "id": "profit_lost_by_reason",
+  "title": "Profit lost by return reason",
+  "type": "bar",
+  "x_label": "Profit lost",
+  "y_label": "Reason",
+  "data": [
+    {
+      "label": "Changed mind",
+      "value": 16961.62
+    },
+    {
+      "label": "Size/fit issue",
+      "value": 15783.27
+    },
+    {
+      "label": "Not as described",
+      "value": 14048.82
+    },
+    {
+      "label": "Defective",
+      "value": 8634.73
+    },
+    {
+      "label": "Damaged in transit",
+      "value": 7776.84
+    },
+    {
+      "label": "Wrong item sent",
+      "value": 2670.76
+    },
+    {
+      "label": "Better price found",
+      "value": 2255.9
+    },
+    {
+      "label": "Not suitable / allergic",
+      "value": 1790.3
+    },
+    {
+      "label": "Late delivery",
+      "value": 1551.88
+    }
+  ],
+  "outcome": "understand"
+}

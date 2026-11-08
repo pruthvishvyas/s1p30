@@ -1,0 +1,190 @@
+{
+  "id": "correlation_heatmap",
+  "title": "Correlation between key numbers",
+  "type": "heatmap",
+  "x_label": "",
+  "y_label": "",
+  "data": [
+    {
+      "label": "unit_price | order_value",
+      "value": 0.7196
+    },
+    {
+      "label": "discount_pct | order_value",
+      "value": -0.2021
+    },
+    {
+      "label": "discount_pct | unit_price",
+      "value": -0.0427
+    },
+    {
+      "label": "days_to_return | order_value",
+      "value": 0.0099
+    },
+    {
+      "label": "days_to_return | unit_price",
+      "value": 0.009
+    },
+    {
+      "label": "days_to_return | discount_pct",
+      "value": 0.0112
+    },
+    {
+      "label": "processing_days | order_value",
+      "value": 0.1379
+    },
+    {
+      "label": "processing_days | unit_price",
+      "value": 0.1555
+    },
+    {
+      "label": "processing_days | discount_pct",
+      "value": -0.0002
+    },
+    {
+      "label": "processing_days | days_to_return",
+      "value": -0.0178
+    },
+    {
+      "label": "reverse_ship | order_value",
+      "value": 0.0782
+    },
+    {
+      "label": "reverse_ship | unit_price",
+      "value": -0.0155
+    },
+    {
+      "label": "reverse_ship | discount_pct",
+      "value": 0.0042
+    },
+    {
+      "label": "reverse_ship | days_to_return",
+      "value": 0.0552
+    },
+    {
+      "label": "reverse_ship | processing_days",
+      "value": 0.0313
+    },
+    {
+      "label": "handling_cost | order_value",
+      "value": 0.0194
+    },
+    {
+      "label": "handling_cost | unit_price",
+      "value": 0.0153
+    },
+    {
+      "label": "handling_cost | discount_pct",
+      "value": 0.0269
+    },
+    {
+      "label": "handling_cost | days_to_return",
+      "value": 0.0124
+    },
+    {
+      "label": "handling_cost | processing_days",
+      "value": 0.2402
+    },
+    {
+      "label": "handling_cost | reverse_ship",
+      "value": 0.0117
+    },
+    {
+      "label": "profit_lost | order_value",
+      "value": 0.7324
+    },
+    {
+      "label": "profit_lost | unit_price",
+      "value": 0.4137
+    },
+    {
+      "label": "profit_lost | discount_pct",
+      "value": -0.179
+    },
+    {
+      "label": "profit_lost | days_to_return",
+      "value": 0.028
+    },
+    {
+      "label": "profit_lost | processing_days",
+      "value": 0.1509
+    },
+    {
+      "label": "profit_lost | reverse_ship",
+      "value": 0.1382
+    },
+    {
+      "label": "profit_lost | handling_cost",
+      "value": 0.1491
+    },
+    {
+      "label": "customer_returns | order_value",
+      "value": 0.09
+    },
+    {
+      "label": "customer_returns | unit_price",
+      "value": 0.06
+    },
+    {
+      "label": "customer_returns | discount_pct",
+      "value": -0.0343
+    },
+    {
+      "label": "customer_returns | days_to_return",
+      "value": -0.0045
+    },
+    {
+      "label": "customer_returns | processing_days",
+      "value": 0.0762
+    },
+    {
+      "label": "customer_returns | reverse_ship",
+      "value": -0.0933
+    },
+    {
+      "label": "customer_returns | handling_cost",
+      "value": 0.0924
+    },
+    {
+      "label": "customer_returns | profit_lost",
+      "value": 0.0707
+    },
+    {
+      "label": "abuse_flag | order_value",
+      "value": 0.0842
+    },
+    {
+      "label": "abuse_flag | unit_price",
+      "value": 0.0483
+    },
+    {
+      "label": "abuse_flag | discount_pct",
+      "value": -0.0144
+    },
+    {
+      "label": "abuse_flag | days_to_return",
+      "value": 0.0492
+    },
+    {
+      "label": "abuse_flag | processing_days",
+      "value": 0.106
+    },
+    {
+      "label": "abuse_flag | reverse_ship",
+      "value": 0.0201
+    },
+    {
+      "label": "abuse_flag | handling_cost",
+      "value": 0.1502
+    },
+    {
+      "label": "abuse_flag | profit_lost",
+      "value": 0.1137
+    },
+    {
+      "label": "abuse_flag | customer_returns",
+      "value": 0.617
+    }
+  ],
+  "outcome": "understand"
+}

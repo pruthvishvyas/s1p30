@@ -1,0 +1,135 @@
+{
+  "task": "classification",
+  "target": "Suspected_Abuse_Flag",
+  "split_method": "grouped by customer",
+  "random_state": 42,
+  "n_train": 763,
+  "n_test": 237,
+  "positive_rate": 0.192,
+  "models": {
+    "Logistic Regression": {
+      "cv_auc_mean": 0.9197551009233595,
+      "cv_auc_std": 0.04001582214312301,
+      "test_auc": 0.9483244597557157,
+      "test_acc": 0.8734177215189873
+    },
+    "Random Forest": {
+      "cv_auc_mean": 0.9426827023882985,
+      "cv_auc_std": 0.027777285229062705,
+      "test_auc": 0.9210773567178202,
+      "test_acc": 0.8860759493670886
+    },
+    "Gradient Boosting": {
+      "cv_auc_mean": 0.8897478659723171,
+      "cv_auc_std": 0.05781921133471469,
+      "test_auc": 0.9044785468211713,
+      "test_acc": 0.869198312236287
+    },
+    "XGBoost": {
+      "cv_auc_mean": 0.8944537669362218,
+      "cv_auc_std": 0.06351634056409168,
+      "test_auc": 0.8817726276229252,
+      "test_acc": 0.8649789029535865
+    }
+  },
+  "best_model": "Random Forest",
+  "cv_folds": 5,
+  "cv_note": "cross-validation scores come from training rows only",
+  "baseline": {
+    "majority_accuracy": 0.869198312236287,
+    "rule_accuracy": 0.4177215189873418,
+    "naive_auc": 0.5
+  },
+  "test": {
+    "auc": 0.9210773567178202,
+    "accuracy": 0.8860759493670886,
+    "precision": 0.5769230769230769,
+    "recall": 0.4838709677419355,
+    "f1": 0.5263157894736842
+  },
+  "beats_baseline": true,
+  "low_sample": false,
+  "leakage_drops": [],
+  "feature_cols": [
+    "Quantity",
+    "Unit_Price",
+    "Discount_pct",
+    "Returned_Order_Value",
+    "Days_to_Return",
+    "Customer_Return_Count_Dataset",
+    "high_value_flag",
+    "fast_return_flag",
+    "opened_or_used_flag",
+    "weekend_return_flag",
+    "Customer_Type",
+    "Country",
+    "Category",
+    "Return_Reason",
+    "Return_Method",
+    "Item_Condition",
+    "discount_band",
+    "price_tier"
+  ],
+  "importances": [
+    {
+      "feature": "Item_Condition",
+      "importance": 0.09333
+    },
+    {
+      "feature": "Customer_Return_Count_Dataset",
+      "importance": 0.06329
+    },
+    {
+      "feature": "Customer_Type",
+      "importance": 0.04253
+    },
+    {
+      "feature": "Return_Reason",
+      "importance": 0.02449
+    },
+    {
+      "feature": "Category",
+      "importance": 0.02051
+    },
+    {
+      "feature": "opened_or_used_flag",
+      "importance": 0.00128
+    },
+    {
+      "feature": "Return_Method",
+      "importance": 0.0011
+    },
+    {
+      "feature": "discount_band",
+      "importance": 0.00063
+    },
+    {
+      "feature": "fast_return_flag",
+      "importance": 6e-05
+    },
+    {
+      "feature": "high_value_flag",
+      "importance": 3e-05
+    },
+    {
+      "feature": "Quantity",
+      "importance": -0.0
+    },
+    {
+      "feature": "Days_to_Return",
+      "importance": -0.00016
+    },
+    {
+      "feature": "weekend_return_flag",
+      "importance": -0.00034
+    },
+    {
+      "feature": "Discount_pct",
+      "importance": -0.00194
+    },
+    {
+      "feature": "price_tier",
+      "importance": -0.00216
+    }
+  ]
+}

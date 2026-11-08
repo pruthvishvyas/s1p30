@@ -1,0 +1,58 @@
+{
+  "id": "label_fee_change",
+  "title": "Raise the return label fee",
+  "variable": "extra_fee",
+  "unit": "currency per return",
+  "assumptions": {
+    "current_average_fee": 3.11,
+    "deterrence": "2 percent of returns avoided per extra currency unit, capped at 50 percent",
+    "avoided_returns_save": "average profit lost per return"
+  },
+  "points": [
+    {
+      "extra_fee": 0,
+      "returns_avoided_pct": 0.0,
+      "net_profit_gain": 0.0
+    },
+    {
+      "extra_fee": 1,
+      "returns_avoided_pct": 2.0,
+      "net_profit_gain": 2409.48
+    },
+    {
+      "extra_fee": 2,
+      "returns_avoided_pct": 4.0,
+      "net_profit_gain": 4778.96
+    },
+    {
+      "extra_fee": 3,
+      "returns_avoided_pct": 6.0,
+      "net_profit_gain": 7108.45
+    },
+    {
+      "extra_fee": 4,
+      "returns_avoided_pct": 8.0,
+      "net_profit_gain": 9397.93
+    },
+    {
+      "extra_fee": 5,
+      "returns_avoided_pct": 10.0,
+      "net_profit_gain": 11647.41
+    },
+    {
+      "extra_fee": 6,
+      "returns_avoided_pct": 12.0,
+      "net_profit_gain": 13856.89
+    },
+    {
+      "extra_fee": 8,
+      "returns_avoided_pct": 16.0,
+      "net_profit_gain": 18155.86
+    },
+    {
+      "extra_fee": 10,
+      "returns_avoided_pct": 20.0,
+      "net_profit_gain": 22294.82
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "numeric": [
+    "Quantity",
+    "Unit_Price",
+    "Discount_pct",
+    "Returned_Order_Value",
+    "Days_to_Return",
+    "Customer_Return_Count_Dataset",
+    "high_value_flag",
+    "fast_return_flag",
+    "opened_or_used_flag",
+    "weekend_return_flag"
+  ],
+  "categorical": [
+    "Customer_Type",
+    "Country",
+    "Category",
+    "Return_Reason",
+    "Return_Method",
+    "Item_Condition",
+    "discount_band",
+    "price_tier"
+  ]
+}

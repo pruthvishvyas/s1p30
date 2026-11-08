@@ -1,0 +1,22 @@
+{
+  "id": "segment_sizes",
+  "title": "Segment sizes",
+  "type": "bar",
+  "x_label": "Segment",
+  "y_label": "Returns",
+  "data": [
+    {
+      "label": "Medium",
+      "value": 593
+    },
+    {
+      "label": "Low",
+      "value": 358
+    },
+    {
+      "label": "High",
+      "value": 49
+    }
+  ],
+  "outcome": "understand"
+}

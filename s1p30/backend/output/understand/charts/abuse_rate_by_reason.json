@@ -1,0 +1,46 @@
+{
+  "id": "abuse_rate_by_reason",
+  "title": "Suspected abuse rate by return reason",
+  "type": "bar",
+  "x_label": "Reason",
+  "y_label": "Abuse rate",
+  "data": [
+    {
+      "label": "Changed mind",
+      "value": 0.3566
+    },
+    {
+      "label": "Size/fit issue",
+      "value": 0.2933
+    },
+    {
+      "label": "Not as described",
+      "value": 0.2229
+    },
+    {
+      "label": "Better price found",
+      "value": 0.0
+    },
+    {
+      "label": "Damaged in transit",
+      "value": 0.0
+    },
+    {
+      "label": "Late delivery",
+      "value": 0.0
+    },
+    {
+      "label": "Defective",
+      "value": 0.0
+    },
+    {
+      "label": "Not suitable / allergic",
+      "value": 0.0
+    },
+    {
+      "label": "Wrong item sent",
+      "value": 0.0
+    }
+  ],
+  "outcome": "decide"
+}

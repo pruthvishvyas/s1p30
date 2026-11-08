@@ -1,0 +1,286 @@
+{
+  "generated_at": "2026-10-29T11:04:58",
+  "project": {
+    "name": "s1p30",
+    "domain": "retail returns",
+    "client_id": "s1p30",
+    "description": "Cost, abuse and recovery analysis of ecommerce product returns"
+  },
+  "terminology": {
+    "revenue": "Order value",
+    "customer": "Customer",
+    "product": "Product",
+    "transaction": "Return"
+  },
+  "source": {
+    "type": "csv",
+    "file": "data/processed/feature_store.csv"
+  },
+  "outcomes": {
+    "understand": {
+      "kpis": "understand/kpis.json",
+      "charts": "understand/charts.json",
+      "segments": "understand/segments.json",
+      "anomalies": "understand/anomalies.json"
+    },
+    "decide": {
+      "insights": "decide/insights.json",
+      "recommendations": "decide/recommendations.json",
+      "simulations": [
+        "decide/simulations/label_fee_change.json",
+        "decide/simulations/abuse_reduction.json",
+        "decide/simulations/recovery_uplift.json"
+      ],
+      "goals": "decide/goals.json"
+    },
+    "monitor": {
+      "forecast": "monitor/forecast.json",
+      "goal_progress": "monitor/goal_progress.json",
+      "alerts": "monitor/alerts.json"
+    }
+  },
+  "model": {
+    "type": "classification",
+    "pkl_file": "",
+    "feature_cols_file": "meta/model_meta.json",
+    "input_fields": [
+      "Quantity",
+      "Unit_Price",
+      "Discount_pct",
+      "Returned_Order_Value",
+      "Days_to_Return",
+      "Customer_Return_Count_Dataset",
+      "high_value_flag",
+      "fast_return_flag",
+      "opened_or_used_flag",
+      "weekend_return_flag"
+    ],
+    "output_label": "suspected abuse",
+    "horizon": "per return"
+  },
+  "forecaster": {
+    "input_schema": [
+      {
+        "name": "Quantity",
+        "type": "float",
+        "range": []
+      },
+      {
+        "name": "Unit_Price",
+        "type": "float",
+        "range": []
+      },
+      {
+        "name": "Discount_pct",
+        "type": "float",
+        "range": []
+      },
+      {
+        "name": "Returned_Order_Value",
+        "type": "float",
+        "range": []
+      },
+      {
+        "name": "Days_to_Return",
+        "type": "float",
+        "range": []
+      },
+      {
+        "name": "Customer_Return_Count_Dataset",
+        "type": "float",
+        "range": []
+      },
+      {
+        "name": "high_value_flag",
+        "type": "float",
+        "range": []
+      },
+      {
+        "name": "fast_return_flag",
+        "type": "float",
+        "range": []
+      },
+      {
+        "name": "opened_or_used_flag",
+        "type": "float",
+        "range": []
+      },
+      {
+        "name": "weekend_return_flag",
+        "type": "float",
+        "range": []
+      }
+    ],
+    "output_schema": {
+      "prediction": "int",
+      "probability": "float",
+      "risk_level": "str"
+    }
+  },
+  "frontend": {
+    "framework": "vanilla HTML/JS",
+    "deploy_target": "cloudflare_pages"
+  },
+  "files": [
+    {
+      "filename": "understand/kpis.json",
+      "purpose": "understand",
+      "schema": {}
+    },
+    {
+      "filename": "understand/segments.json",
+      "purpose": "understand",
+      "schema": {}
+    },
+    {
+      "filename": "understand/anomalies.json",
+      "purpose": "understand",
+      "schema": {}
+    },
+    {
+      "filename": "understand/charts/abuse_rate_by_reason.json",
+      "purpose": "understand",
+      "schema": {}
+    },
+    {
+      "filename": "understand/charts/abuse_rate_heatmap.json",
+      "purpose": "understand",
+      "schema": {}
+    },
+    {
+      "filename": "understand/charts/correlation_heatmap.json",
+      "purpose": "understand",
+      "schema": {}
+    },
+    {
+      "filename": "understand/charts/days_to_return_by_flag.json",
+      "purpose": "understand",
+      "schema": {}
+    },
+    {
+      "filename": "understand/charts/flag_distribution.json",
+      "purpose": "understand",
+      "schema": {}
+    },
+    {
+      "filename": "understand/charts/price_vs_loss_scatter.json",
+      "purpose": "understand",
+      "schema": {}
+    },
+    {
+      "filename": "understand/charts/profit_lost_by_category.json",
+      "purpose": "understand",
+      "schema": {}
+    },
+    {
+      "filename": "understand/charts/profit_lost_by_reason.json",
+      "purpose": "understand",
+      "schema": {}
+    },
+    {
+      "filename": "understand/charts/risk_score_histogram.json",
+      "purpose": "understand",
+      "schema": {}
+    },
+    {
+      "filename": "understand/charts/weekly_profit_lost.json",
+      "purpose": "understand",
+      "schema": {}
+    },
+    {
+      "filename": "understand/charts/priority_breakdown.json",
+      "purpose": "understand",
+      "schema": {}
+    },
+    {
+      "filename": "understand/charts/segment_sizes.json",
+      "purpose": "understand",
+      "schema": {}
+    },
+    {
+      "filename": "understand/charts/anomaly_rate_by_group.json",
+      "purpose": "understand",
+      "schema": {}
+    },
+    {
+      "filename": "understand/charts/top_feature_importance.json",
+      "purpose": "understand",
+      "schema": {}
+    },
+    {
+      "filename": "understand/charts.json",
+      "purpose": "understand",
+      "schema": {}
+    },
+    {
+      "filename": "decide/insights.json",
+      "purpose": "decide",
+      "schema": {}
+    },
+    {
+      "filename": "decide/recommendations.json",
+      "purpose": "decide",
+      "schema": {}
+    },
+    {
+      "filename": "decide/simulations/label_fee_change.json",
+      "purpose": "decide",
+      "schema": {}
+    },
+    {
+      "filename": "decide/simulations/abuse_reduction.json",
+      "purpose": "decide",
+      "schema": {}
+    },
+    {
+      "filename": "decide/simulations/recovery_uplift.json",
+      "purpose": "decide",
+      "schema": {}
+    },
+    {
+      "filename": "decide/goals.json",
+      "purpose": "decide",
+      "schema": {}
+    },
+    {
+      "filename": "monitor/goal_progress.json",
+      "purpose": "monitor",
+      "schema": {}
+    },
+    {
+      "filename": "monitor/forecast.json",
+      "purpose": "monitor",
+      "schema": {}
+    },
+    {
+      "filename": "monitor/alerts.json",
+      "purpose": "monitor",
+      "schema": {}
+    },
+    {
+      "filename": "meta/summary.json",
+      "purpose": "meta",
+      "schema": {}
+    },
+    {
+      "filename": "meta/terminology.json",
+      "purpose": "meta",
+      "schema": {}
+    },
+    {
+      "filename": "meta/model_meta.json",
+      "purpose": "meta",
+      "schema": {}
+    },
+    {
+      "filename": "meta/run_log.json",
+      "purpose": "meta",
+      "schema": {}
+    },
+    {
+      "filename": "frontend_contract.json",
+      "purpose": "frontend_contract.json",
+      "schema": {}
+    }
+  ]
+}

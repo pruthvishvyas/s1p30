@@ -1,0 +1,58 @@
+{
+  "kpis": [
+    {
+      "id": "total_returns",
+      "label": "Returns",
+      "value": 1000,
+      "unit": "count"
+    },
+    {
+      "id": "profit_lost",
+      "label": "Profit lost to returns",
+      "value": 71474.12,
+      "unit": "currency"
+    },
+    {
+      "id": "avg_loss",
+      "label": "Average profit lost per return",
+      "value": 71.4741,
+      "unit": "currency"
+    },
+    {
+      "id": "returned_value",
+      "label": "Returned order value",
+      "value": 79900.81,
+      "unit": "currency"
+    },
+    {
+      "id": "loss_to_value",
+      "label": "Profit lost as share of returned value",
+      "value": 0.8945,
+      "unit": "ratio"
+    },
+    {
+      "id": "abuse_count",
+      "label": "Suspected abuse returns",
+      "value": 192,
+      "unit": "count"
+    },
+    {
+      "id": "abuse_rate",
+      "label": "Suspected abuse rate",
+      "value": 0.192,
+      "unit": "ratio"
+    },
+    {
+      "id": "cost_to_value",
+      "label": "Return handling cost as share of returned value",
+      "value": 0.3515,
+      "unit": "ratio"
+    },
+    {
+      "id": "p1_count",
+      "label": "Urgent returns",
+      "value": 314,
+      "unit": "count"
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "metrics": {
+    "series": "weekly profit lost",
+    "weeks": 53,
+    "holdout_weeks": 11,
+    "horizon_days": 30,
+    "evaluation": "one week ahead on the final weeks, chronological split",
+    "model": {
+      "name": "Ridge on four lags and trend",
+      "mae": 498.95029269464413,
+      "mape": 0.49883687661652637
+    },
+    "baseline": {
+      "name": "last week value",
+      "mae": 549.9945454545455,
+      "mape": 0.6007946546178343
+    },
+    "beats_baseline": true,
+    "low_sample": false,
+    "future": [
+      {
+        "week_start": "2026-10-05",
+        "predicted": 691.31
+      },
+      {
+        "week_start": "2026-10-12",
+        "predicted": 1012.65
+      },
+      {
+        "week_start": "2026-10-19",
+        "predicted": 1008.88
+      },
+      {
+        "week_start": "2026-10-26",
+        "predicted": 997.06
+      },
+      {
+        "week_start": "2026-11-02",
+        "predicted": 1015.7
+      }
+    ]
+  },
+  "series": [
+    {
+      "week_start": "2025-09-29",
+      "actual": 1094.02,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2025-10-06",
+      "actual": 1563.72,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2025-10-13",
+      "actual": 918.37,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2025-10-20",
+      "actual": 1228.93,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2025-10-27",
+      "actual": 1228.09,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2025-11-03",
+      "actual": 1286.81,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2025-11-10",
+      "actual": 1039.42,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2025-11-17",
+      "actual": 1032.59,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2025-11-24",
+      "actual": 1200.9,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2025-12-01",
+      "actual": 1862.24,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2025-12-08",
+      "actual": 1556.79,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2025-12-15",
+      "actual": 1918.48,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2025-12-22",
+      "actual": 1633.7,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2025-12-29",
+      "actual": 2013.49,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-01-05",
+      "actual": 3526.92,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-01-12",
+      "actual": 2289.82,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-01-19",
+      "actual": 1147.83,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-01-26",
+      "actual": 1249.01,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-02-02",
+      "actual": 1207.8,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-02-09",
+      "actual": 1253.23,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-02-16",
+      "actual": 1240.94,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-02-23",
+      "actual": 728.28,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-03-02",
+      "actual": 754.4,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-03-09",
+      "actual": 1492.68,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-03-16",
+      "actual": 2017.2,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-03-23",
+      "actual": 1624.55,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-03-30",
+      "actual": 1187.67,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-04-06",
+      "actual": 1748.43,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-04-13",
+      "actual": 972.81,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-04-20",
+      "actual": 1092.47,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-04-27",
+      "actual": 940.52,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-05-04",
+      "actual": 611.65,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-05-11",
+      "actual": 1061.95,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-05-18",
+      "actual": 1441.3,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-05-25",
+      "actual": 1343.92,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-06-01",
+      "actual": 1238.55,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-06-08",
+      "actual": 1218.61,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-06-15",
+      "actual": 1617.89,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-06-22",
+      "actual": 1068.77,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-06-29",
+      "actual": 1211.49,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-07-06",
+      "actual": 1234.81,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-07-13",
+      "actual": 1342.44,
+      "predicted": null,
+      "baseline": null,
+      "kind": "train"
+    },
+    {
+      "week_start": "2026-07-20",
+      "actual": 1464.69,
+      "predicted": 1264.67,
+      "baseline": 1342.44,
+      "kind": "holdout"
+    },
+    {
+      "week_start": "2026-07-27",
+      "actual": 2105.37,
+      "predicted": 1302.8,
+      "baseline": 1464.69,
+      "kind": "holdout"
+    },
+    {
+      "week_start": "2026-08-03",
+      "actual": 805.83,
+      "predicted": 1645.56,
+      "baseline": 2105.37,
+      "kind": "holdout"
+    },
+    {
+      "week_start": "2026-08-10",
+      "actual": 1027.13,
+      "predicted": 776.37,
+      "baseline": 805.83,
+      "kind": "holdout"
+    },
+    {
+      "week_start": "2026-08-17",
+      "actual": 707.54,
+      "predicted": 1243.56,
+      "baseline": 1027.13,
+      "kind": "holdout"
+    },
+    {
+      "week_start": "2026-08-24",
+      "actual": 1499.49,
+      "predicted": 836.54,
+      "baseline": 707.54,
+      "kind": "holdout"
+    },
+    {
+      "week_start": "2026-08-31",
+      "actual": 1114.53,
+      "predicted": 1417.41,
+      "baseline": 1499.49,
+      "kind": "holdout"
+    },
+    {
+      "week_start": "2026-09-07",
+      "actual": 1133.32,
+      "predicted": 979.33,
+      "baseline": 1114.53,
+      "kind": "holdout"
+    },
+    {
+      "week_start": "2026-09-14",
+      "actual": 1939.14,
+      "predicted": 1168.85,
+      "baseline": 1133.32,
+      "kind": "holdout"
+    },
+    {
+      "week_start": "2026-09-21",
+      "actual": 1739.51,
+      "predicted": 1544.18,
+      "baseline": 1939.14,
+      "kind": "holdout"
+    },
+    {
+      "week_start": "2026-09-28",
+      "actual": 494.08,
+      "predicted": 1268.0,
+      "baseline": 1739.51,
+      "kind": "holdout"
+    },
+    {
+      "week_start": "2026-10-05",
+      "actual": null,
+      "predicted": 691.31,
+      "baseline": null,
+      "kind": "forecast"
+    },
+    {
+      "week_start": "2026-10-12",
+      "actual": null,
+      "predicted": 1012.65,
+      "baseline": null,
+      "kind": "forecast"
+    },
+    {
+      "week_start": "2026-10-19",
+      "actual": null,
+      "predicted": 1008.88,
+      "baseline": null,
+      "kind": "forecast"
+    },
+    {
+      "week_start": "2026-10-26",
+      "actual": null,
+      "predicted": 997.06,
+      "baseline": null,
+      "kind": "forecast"
+    },
+    {
+      "week_start": "2026-11-02",
+      "actual": null,
+      "predicted": 1015.7,
+      "baseline": null,
+      "kind": "forecast"
+    }
+  ]
+}

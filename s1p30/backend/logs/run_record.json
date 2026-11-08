@@ -1,0 +1,119 @@
+[
+  {
+    "finished_at": "2026-10-29T11:03:05",
+    "stages": [
+      {
+        "stage": "Data intake and checks",
+        "status": "OK",
+        "seconds": 0.08,
+        "reason": "",
+        "outputs": [
+          "validation_report.json"
+        ]
+      },
+      {
+        "stage": "Data cleaning",
+        "status": "OK",
+        "seconds": 0.31,
+        "reason": "",
+        "outputs": [
+          "clean_data.csv",
+          "cleaning_log.json"
+        ]
+      },
+      {
+        "stage": "Feature building",
+        "status": "OK",
+        "seconds": 0.09,
+        "reason": "",
+        "outputs": [
+          "feature_store.csv"
+        ]
+      },
+      {
+        "stage": "Exploratory charts",
+        "status": "OK",
+        "seconds": 3.76,
+        "reason": "",
+        "outputs": []
+      },
+      {
+        "stage": "Goals",
+        "status": "OK",
+        "seconds": 0.01,
+        "reason": "",
+        "outputs": []
+      },
+      {
+        "stage": "Abuse model",
+        "status": "OK",
+        "seconds": 19.14,
+        "reason": "",
+        "outputs": [
+          "model_metrics.json"
+        ]
+      },
+      {
+        "stage": "Customer segments and unusual returns",
+        "status": "OK",
+        "seconds": 1.53,
+        "reason": "",
+        "outputs": [
+          "segment_meta.json"
+        ]
+      },
+      {
+        "stage": "Weekly forecast",
+        "status": "OK",
+        "seconds": 0.39,
+        "reason": "",
+        "outputs": [
+          "forecast_metrics.json"
+        ]
+      },
+      {
+        "stage": "Alerts and actions",
+        "status": "OK",
+        "seconds": 0.27,
+        "reason": "",
+        "outputs": [
+          "business_actions.csv"
+        ]
+      },
+      {
+        "stage": "Scenarios",
+        "status": "OK",
+        "seconds": 0.03,
+        "reason": "",
+        "outputs": []
+      },
+      {
+        "stage": "Insights",
+        "status": "OK",
+        "seconds": 0.12,
+        "reason": "",
+        "outputs": [
+          "insights.json"
+        ]
+      },
+      {
+        "stage": "Excel workbook",
+        "status": "OK",
+        "seconds": 1.75,
+        "reason": "",
+        "outputs": [
+          "returns_report.xlsx"
+        ]
+      },
+      {
+        "stage": "Interactive dashboard page",
+        "status": "OK",
+        "seconds": 1.4,
+        "reason": "",
+        "outputs": [
+          "interactive_dashboard.html"
+        ]
+      }
+    ]
+  }
+]

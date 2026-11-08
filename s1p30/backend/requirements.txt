@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+plotly
+openpyxl
+joblib
+notebook
+ipykernel
+nbformat
+xgboost
+# google-cloud-bigquery

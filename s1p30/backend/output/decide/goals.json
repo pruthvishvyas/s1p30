@@ -1,0 +1,23 @@
+{
+  "profit_loss_cap": {
+    "value": null,
+    "unit": "monthly",
+    "client_sets": true,
+    "description": "Highest acceptable profit lost to returns per month"
+  },
+  "abuse_rate_ceiling": {
+    "value": null,
+    "unit": "percent",
+    "client_sets": true,
+    "description": "Highest acceptable share of suspected abuse returns"
+  },
+  "alert_rise_pct": {
+    "value": 20,
+    "unit": "percent",
+    "description": "Alert if weekly profit lost rises by this much"
+  },
+  "forecast_horizon": {
+    "value": 30,
+    "unit": "days"
+  }
+}

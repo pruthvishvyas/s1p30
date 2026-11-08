@@ -1,0 +1,102 @@
+{
+  "charts": [
+    {
+      "id": "abuse_rate_by_reason",
+      "title": "Suspected abuse rate by return reason",
+      "type": "bar",
+      "outcome": "decide",
+      "file": "understand/charts/abuse_rate_by_reason.json"
+    },
+    {
+      "id": "abuse_rate_heatmap",
+      "title": "Suspected abuse rate by category and customer type",
+      "type": "heatmap",
+      "outcome": "monitor",
+      "file": "understand/charts/abuse_rate_heatmap.json"
+    },
+    {
+      "id": "correlation_heatmap",
+      "title": "Correlation between key numbers",
+      "type": "heatmap",
+      "outcome": "understand",
+      "file": "understand/charts/correlation_heatmap.json"
+    },
+    {
+      "id": "days_to_return_by_flag",
+      "title": "Days to return by abuse flag",
+      "type": "histogram",
+      "outcome": "understand",
+      "file": "understand/charts/days_to_return_by_flag.json"
+    },
+    {
+      "id": "flag_distribution",
+      "title": "Returns by abuse flag",
+      "type": "bar",
+      "outcome": "understand",
+      "file": "understand/charts/flag_distribution.json"
+    },
+    {
+      "id": "price_vs_loss_scatter",
+      "title": "Unit price against profit lost",
+      "type": "scatter",
+      "outcome": "decide",
+      "file": "understand/charts/price_vs_loss_scatter.json"
+    },
+    {
+      "id": "profit_lost_by_category",
+      "title": "Profit lost by category",
+      "type": "bar",
+      "outcome": "understand",
+      "file": "understand/charts/profit_lost_by_category.json"
+    },
+    {
+      "id": "profit_lost_by_reason",
+      "title": "Profit lost by return reason",
+      "type": "bar",
+      "outcome": "understand",
+      "file": "understand/charts/profit_lost_by_reason.json"
+    },
+    {
+      "id": "risk_score_histogram",
+      "title": "Return risk score distribution",
+      "type": "histogram",
+      "outcome": "decide",
+      "file": "understand/charts/risk_score_histogram.json"
+    },
+    {
+      "id": "weekly_profit_lost",
+      "title": "Weekly profit lost to returns",
+      "type": "line",
+      "outcome": "monitor",
+      "file": "understand/charts/weekly_profit_lost.json"
+    },
+    {
+      "id": "priority_breakdown",
+      "title": "Returns by priority",
+      "type": "bar",
+      "outcome": "decide",
+      "file": "understand/charts/priority_breakdown.json"
+    },
+    {
+      "id": "segment_sizes",
+      "title": "Segment sizes",
+      "type": "bar",
+      "outcome": "understand",
+      "file": "understand/charts/segment_sizes.json"
+    },
+    {
+      "id": "anomaly_rate_by_group",
+      "title": "Unusual return rate by category",
+      "type": "bar",
+      "outcome": "understand",
+      "file": "understand/charts/anomaly_rate_by_group.json"
+    },
+    {
+      "id": "top_feature_importance",
+      "title": "Top predictors of suspected abuse",
+      "type": "bar",
+      "outcome": "understand",
+      "file": "understand/charts/top_feature_importance.json"
+    }
+  ]
+}

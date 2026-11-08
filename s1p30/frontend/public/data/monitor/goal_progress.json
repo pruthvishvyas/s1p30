@@ -1,0 +1,16 @@
+{
+  "months_observed": 12,
+  "latest_month": "2026-09",
+  "latest_month_profit_lost": 6269.08,
+  "profit_loss_cap": null,
+  "cap_status": "not set",
+  "abuse_rate_pct": 19.2,
+  "abuse_ceiling_pct": null,
+  "abuse_status": "not set",
+  "weekly_alert": {
+    "week": "2026-09-28/2026-10-04",
+    "change_pct": -71.6,
+    "threshold_pct": 20,
+    "triggered": false
+  }
+}

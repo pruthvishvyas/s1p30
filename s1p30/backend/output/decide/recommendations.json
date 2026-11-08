@@ -1,0 +1,1413 @@
+{
+  "summary": {
+    "NEGATIVE_AFTER_RETURN": 1000,
+    "REPEAT_RETURNER": 723,
+    "HIGH_COST_TO_SERVE": 689,
+    "LOW_RECOVERY": 260,
+    "SUSPECTED_ABUSE": 192,
+    "UNUSUAL_RETURN": 50,
+    "MODEL_RISK": 5
+  },
+  "rows": [
+    {
+      "return": "552778ff0409",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|UNUSUAL_RETURN",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Check order and return details by hand",
+      "profit_lost": 845.65
+    },
+    {
+      "return": "67594d32d7b4",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|UNUSUAL_RETURN",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Check order and return details by hand",
+      "profit_lost": 573.46
+    },
+    {
+      "return": "ca758d572bc2",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|UNUSUAL_RETURN",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Check order and return details by hand",
+      "profit_lost": 567.19
+    },
+    {
+      "return": "49fa33830d56",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|UNUSUAL_RETURN",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Check order and return details by hand",
+      "profit_lost": 452.86
+    },
+    {
+      "return": "59b14db526f0",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY|UNUSUAL_RETURN",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf; Check order and return details by hand",
+      "profit_lost": 397.17
+    },
+    {
+      "return": "5bf8690aa8bf",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|UNUSUAL_RETURN",
+      "recommendations": "Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Check order and return details by hand",
+      "profit_lost": 392.59
+    },
+    {
+      "return": "f35e502c8539",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|UNUSUAL_RETURN",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Check order and return details by hand",
+      "profit_lost": 339.24
+    },
+    {
+      "return": "f36403ede66f",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|UNUSUAL_RETURN",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Check order and return details by hand",
+      "profit_lost": 333.19
+    },
+    {
+      "return": "ca311c3ef220",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|UNUSUAL_RETURN",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Check order and return details by hand",
+      "profit_lost": 316.59
+    },
+    {
+      "return": "50457337dcb9",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|UNUSUAL_RETURN",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Check order and return details by hand",
+      "profit_lost": 255.88
+    },
+    {
+      "return": "d3b81dc626e2",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee",
+      "profit_lost": 254.59
+    },
+    {
+      "return": "3d553cdd687f",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 247.61
+    },
+    {
+      "return": "84c3634e5ef6",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|UNUSUAL_RETURN",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Check order and return details by hand",
+      "profit_lost": 237.78
+    },
+    {
+      "return": "5498ef65097a",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|UNUSUAL_RETURN",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Check order and return details by hand",
+      "profit_lost": 231.88
+    },
+    {
+      "return": "ef2628846af5",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 224.57
+    },
+    {
+      "return": "2ac68b711d59",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 220.35
+    },
+    {
+      "return": "28cdb38ffe8b",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 216.63
+    },
+    {
+      "return": "d2eb4cd7c45c",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 216.18
+    },
+    {
+      "return": "cef77d1dd10c",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee",
+      "profit_lost": 210.15
+    },
+    {
+      "return": "e3016cf544cb",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 207.65
+    },
+    {
+      "return": "c3436d81f354",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 205.29
+    },
+    {
+      "return": "0d17a3866ae4",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 197.81
+    },
+    {
+      "return": "9f2d72c5a01d",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 197.04
+    },
+    {
+      "return": "6c1140eb27b8",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history",
+      "profit_lost": 196.12
+    },
+    {
+      "return": "1c563d5b73aa",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 193.59
+    },
+    {
+      "return": "fac301c19d35",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|UNUSUAL_RETURN",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Check order and return details by hand",
+      "profit_lost": 191.46
+    },
+    {
+      "return": "da6ff943a5e4",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|UNUSUAL_RETURN",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Check order and return details by hand",
+      "profit_lost": 188.9
+    },
+    {
+      "return": "0bebc61b4e8a",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee",
+      "profit_lost": 188.38
+    },
+    {
+      "return": "eb3264e1a497",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|UNUSUAL_RETURN",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Check order and return details by hand",
+      "profit_lost": 187.72
+    },
+    {
+      "return": "ac3098378284",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 187.47
+    },
+    {
+      "return": "1a4dda854d9f",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 186.86
+    },
+    {
+      "return": "1c094abc7104",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|UNUSUAL_RETURN",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Check order and return details by hand",
+      "profit_lost": 184.74
+    },
+    {
+      "return": "f22b33aa6cfb",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 165.51
+    },
+    {
+      "return": "8685f0825bfe",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 164.39
+    },
+    {
+      "return": "b71b8aa40d7c",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|LOW_RECOVERY|UNUSUAL_RETURN",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Send to vendor credit or liquidation instead of the shelf; Check order and return details by hand",
+      "profit_lost": 163.69
+    },
+    {
+      "return": "52d6c45786c8",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 160.77
+    },
+    {
+      "return": "d2bbb04a1c8c",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY|UNUSUAL_RETURN",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf; Check order and return details by hand",
+      "profit_lost": 157.47
+    },
+    {
+      "return": "9c8250857d04",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 156.44
+    },
+    {
+      "return": "bdb48657934f",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|LOW_RECOVERY|UNUSUAL_RETURN",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Send to vendor credit or liquidation instead of the shelf; Check order and return details by hand",
+      "profit_lost": 155.41
+    },
+    {
+      "return": "76d8d45f1f16",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|LOW_RECOVERY|UNUSUAL_RETURN",
+      "recommendations": "Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf; Check order and return details by hand",
+      "profit_lost": 153.97
+    },
+    {
+      "return": "9a89fddada53",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history",
+      "profit_lost": 151.1
+    },
+    {
+      "return": "ed3e64d67487",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 149.59
+    },
+    {
+      "return": "608e3d95564b",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 146.3
+    },
+    {
+      "return": "23a927b9f5f5",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history",
+      "profit_lost": 143.96
+    },
+    {
+      "return": "5fbce2642090",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|UNUSUAL_RETURN",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Check order and return details by hand",
+      "profit_lost": 139.52
+    },
+    {
+      "return": "5f145385d99a",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 139.4
+    },
+    {
+      "return": "e5f30b92fd8f",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 138.45
+    },
+    {
+      "return": "1cbb523403e2",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 137.47
+    },
+    {
+      "return": "4a451ac61adf",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 135.78
+    },
+    {
+      "return": "27bcac2e33dd",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|UNUSUAL_RETURN",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Check order and return details by hand",
+      "profit_lost": 134.98
+    },
+    {
+      "return": "49d99185911a",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 134.78
+    },
+    {
+      "return": "2f4e3714297b",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 133.99
+    },
+    {
+      "return": "d990a3c26c56",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 133.83
+    },
+    {
+      "return": "a654288d0dee",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history",
+      "profit_lost": 132.32
+    },
+    {
+      "return": "0bdefc34059c",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|UNUSUAL_RETURN",
+      "recommendations": "Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Check order and return details by hand",
+      "profit_lost": 131.92
+    },
+    {
+      "return": "f2c1c74355e7",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee",
+      "profit_lost": 131.64
+    },
+    {
+      "return": "64dd066538c1",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 131.0
+    },
+    {
+      "return": "f7841e2735b1",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 130.88
+    },
+    {
+      "return": "660b2254a899",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 130.86
+    },
+    {
+      "return": "08dbc0e22f8e",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 130.0
+    },
+    {
+      "return": "4f46e5f78a2d",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 129.68
+    },
+    {
+      "return": "e8f646a45ea3",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 129.52
+    },
+    {
+      "return": "4d292be3880a",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 128.69
+    },
+    {
+      "return": "0957f2285676",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history",
+      "profit_lost": 127.22
+    },
+    {
+      "return": "74efd008235c",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|UNUSUAL_RETURN",
+      "recommendations": "Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Check order and return details by hand",
+      "profit_lost": 127.05
+    },
+    {
+      "return": "b74786f9a10e",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 125.79
+    },
+    {
+      "return": "fec93afbe91c",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 125.46
+    },
+    {
+      "return": "72bc66f3e964",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 124.74
+    },
+    {
+      "return": "e2eddabefe34",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 124.21
+    },
+    {
+      "return": "eeaee5de5b72",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|UNUSUAL_RETURN",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Check order and return details by hand",
+      "profit_lost": 124.17
+    },
+    {
+      "return": "b8fd0dc478aa",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 123.64
+    },
+    {
+      "return": "9fa4cf30d253",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|UNUSUAL_RETURN",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Check order and return details by hand",
+      "profit_lost": 121.6
+    },
+    {
+      "return": "58bd29c1dfa1",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 121.53
+    },
+    {
+      "return": "32857288c81f",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee",
+      "profit_lost": 120.67
+    },
+    {
+      "return": "17c0f2213ccd",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 120.44
+    },
+    {
+      "return": "508b27d6720b",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 120.27
+    },
+    {
+      "return": "8e5eef443be0",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history",
+      "profit_lost": 120.12
+    },
+    {
+      "return": "c268eb909b2b",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 120.06
+    },
+    {
+      "return": "4dd5c5bc88f0",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 119.76
+    },
+    {
+      "return": "b4b32db60988",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 118.97
+    },
+    {
+      "return": "5b8dd0dec09c",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 118.6
+    },
+    {
+      "return": "1ff0747d8d1c",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 118.37
+    },
+    {
+      "return": "bc2525cade93",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|LOW_RECOVERY|UNUSUAL_RETURN",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf; Check order and return details by hand",
+      "profit_lost": 118.13
+    },
+    {
+      "return": "437a39ed9812",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 116.77
+    },
+    {
+      "return": "71fab8107664",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 116.21
+    },
+    {
+      "return": "6d1d5c5a4ce2",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 115.95
+    },
+    {
+      "return": "eca3b73ae8ca",
+      "priority": "P2_HIGH",
+      "alerts": "MODEL_RISK|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER",
+      "recommendations": "Add to the review queue this week; Check return policy and restocking fee for this item; Put the account on a watch list and review its history",
+      "profit_lost": 115.31
+    },
+    {
+      "return": "73b88f38aec0",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history",
+      "profit_lost": 114.17
+    },
+    {
+      "return": "a24aee965b65",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 113.62
+    },
+    {
+      "return": "686f632c58f0",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 112.35
+    },
+    {
+      "return": "f5c20c26add1",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 112.12
+    },
+    {
+      "return": "848f19973033",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 110.46
+    },
+    {
+      "return": "eaacdc0d2214",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history",
+      "profit_lost": 110.42
+    },
+    {
+      "return": "8852e2f7a0a1",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history",
+      "profit_lost": 110.26
+    },
+    {
+      "return": "6f19890d40de",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 109.53
+    },
+    {
+      "return": "3d1f89d1768d",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 108.9
+    },
+    {
+      "return": "9ac3276da0a5",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 107.79
+    },
+    {
+      "return": "d6b3d062325b",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 107.67
+    },
+    {
+      "return": "345dd0c68a1e",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|LOW_RECOVERY|UNUSUAL_RETURN",
+      "recommendations": "Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf; Check order and return details by hand",
+      "profit_lost": 107.46
+    },
+    {
+      "return": "01f610481a57",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee",
+      "profit_lost": 107.19
+    },
+    {
+      "return": "dd84987695fc",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee",
+      "profit_lost": 105.69
+    },
+    {
+      "return": "02bfa3552dd9",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 105.6
+    },
+    {
+      "return": "07ef89903ed8",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee",
+      "profit_lost": 105.47
+    },
+    {
+      "return": "8d1e1d85a026",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history",
+      "profit_lost": 105.26
+    },
+    {
+      "return": "bffb240df9aa",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 104.5
+    },
+    {
+      "return": "d6c79f721400",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 104.43
+    },
+    {
+      "return": "563c58bf0b13",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 103.89
+    },
+    {
+      "return": "687c2b3cf97d",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 102.95
+    },
+    {
+      "return": "a5ddfd4def2a",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history",
+      "profit_lost": 102.68
+    },
+    {
+      "return": "c92d601044c9",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 102.67
+    },
+    {
+      "return": "526eb295bfc7",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 102.45
+    },
+    {
+      "return": "bd44de59e34f",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history",
+      "profit_lost": 102.35
+    },
+    {
+      "return": "1bdafcff89d4",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 102.25
+    },
+    {
+      "return": "6244e00b4d7b",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 101.72
+    },
+    {
+      "return": "b7585b5b9c50",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 100.81
+    },
+    {
+      "return": "6235ae052cfb",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 100.63
+    },
+    {
+      "return": "103b9dbf6817",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 100.55
+    },
+    {
+      "return": "04891bca69d1",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 100.39
+    },
+    {
+      "return": "513340ac3679",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|UNUSUAL_RETURN",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Check order and return details by hand",
+      "profit_lost": 100.35
+    },
+    {
+      "return": "6cb158656b30",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|LOW_RECOVERY|UNUSUAL_RETURN",
+      "recommendations": "Check return policy and restocking fee for this item; Send to vendor credit or liquidation instead of the shelf; Check order and return details by hand",
+      "profit_lost": 99.25
+    },
+    {
+      "return": "0b81b7d28cf9",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 99.23
+    },
+    {
+      "return": "bab5ad1c00bd",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee",
+      "profit_lost": 99.11
+    },
+    {
+      "return": "b7971c6432f1",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee",
+      "profit_lost": 99.08
+    },
+    {
+      "return": "566df633fe60",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 99.05
+    },
+    {
+      "return": "a1d130df99ce",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history",
+      "profit_lost": 98.12
+    },
+    {
+      "return": "6b973bd9c700",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY|UNUSUAL_RETURN",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf; Check order and return details by hand",
+      "profit_lost": 98.04
+    },
+    {
+      "return": "dc07a445f882",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 97.34
+    },
+    {
+      "return": "32d78b2c5d93",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 97.31
+    },
+    {
+      "return": "c8ce9c023ef6",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 96.88
+    },
+    {
+      "return": "66722a7a891a",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history",
+      "profit_lost": 96.49
+    },
+    {
+      "return": "19507ed9a932",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 95.99
+    },
+    {
+      "return": "168a4c7aaa46",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee",
+      "profit_lost": 94.56
+    },
+    {
+      "return": "8516b9692845",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history",
+      "profit_lost": 94.52
+    },
+    {
+      "return": "f22b2d70d035",
+      "priority": "P2_HIGH",
+      "alerts": "MODEL_RISK|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER",
+      "recommendations": "Add to the review queue this week; Check return policy and restocking fee for this item; Put the account on a watch list and review its history",
+      "profit_lost": 94.1
+    },
+    {
+      "return": "d78c243ac886",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 93.67
+    },
+    {
+      "return": "eeee606eda15",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 93.38
+    },
+    {
+      "return": "5302eae7e714",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 93.32
+    },
+    {
+      "return": "6c4caa9fe091",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history",
+      "profit_lost": 92.86
+    },
+    {
+      "return": "8ab27644a792",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee",
+      "profit_lost": 92.84
+    },
+    {
+      "return": "deaea7610228",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 92.5
+    },
+    {
+      "return": "bf44f32a4e53",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 92.43
+    },
+    {
+      "return": "8d44f3782ce4",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee",
+      "profit_lost": 92.18
+    },
+    {
+      "return": "9dd4ee234778",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 92.17
+    },
+    {
+      "return": "d87fa0348111",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 91.97
+    },
+    {
+      "return": "20fdef302e0a",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history",
+      "profit_lost": 91.7
+    },
+    {
+      "return": "8f9e4d2ac81d",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history",
+      "profit_lost": 91.68
+    },
+    {
+      "return": "dbe78fc87721",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 91.6
+    },
+    {
+      "return": "48284cbd3f86",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 91.54
+    },
+    {
+      "return": "351651efcf7d",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 91.14
+    },
+    {
+      "return": "e87fda99dac9",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 91.1
+    },
+    {
+      "return": "a624307495d9",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee",
+      "profit_lost": 90.79
+    },
+    {
+      "return": "5fd7021668f1",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 90.63
+    },
+    {
+      "return": "a7ae367d5b08",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 90.55
+    },
+    {
+      "return": "f92ddf0ddd20",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 90.54
+    },
+    {
+      "return": "7e5c6cbf5af6",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 89.55
+    },
+    {
+      "return": "fa8a06a7a421",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history",
+      "profit_lost": 89.48
+    },
+    {
+      "return": "c76fc12f0727",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 88.95
+    },
+    {
+      "return": "530e9378e0f5",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 88.88
+    },
+    {
+      "return": "26ce51584caf",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 88.8
+    },
+    {
+      "return": "cc66995c67e6",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history",
+      "profit_lost": 88.76
+    },
+    {
+      "return": "92b129f3fe0d",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 88.75
+    },
+    {
+      "return": "6825903ffae5",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history",
+      "profit_lost": 88.59
+    },
+    {
+      "return": "6498fd513650",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 88.58
+    },
+    {
+      "return": "df49c6a1acd8",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 88.41
+    },
+    {
+      "return": "72306bc1c70b",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 88.28
+    },
+    {
+      "return": "16c583b997fc",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 88.01
+    },
+    {
+      "return": "fa4899613ac6",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 87.24
+    },
+    {
+      "return": "314643964e1a",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 87.17
+    },
+    {
+      "return": "51f190ec5db9",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history",
+      "profit_lost": 86.92
+    },
+    {
+      "return": "3a52c860970d",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 86.89
+    },
+    {
+      "return": "9b7e7a74a566",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee",
+      "profit_lost": 86.86
+    },
+    {
+      "return": "1becdd569eea",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 86.04
+    },
+    {
+      "return": "cd3f05089546",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Put the account on a watch list and review its history",
+      "profit_lost": 86.04
+    },
+    {
+      "return": "e66b04972a8d",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 85.96
+    },
+    {
+      "return": "95fc2db1f006",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 85.88
+    },
+    {
+      "return": "571b1f7afde2",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 85.88
+    },
+    {
+      "return": "e5b7e85d4a17",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 85.66
+    },
+    {
+      "return": "a075e745bb59",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee",
+      "profit_lost": 85.61
+    },
+    {
+      "return": "3451881a6235",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 85.43
+    },
+    {
+      "return": "3c72904bd5b7",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee",
+      "profit_lost": 85.08
+    },
+    {
+      "return": "c82a4586296f",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 84.45
+    },
+    {
+      "return": "e889b1c62742",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 84.36
+    },
+    {
+      "return": "823c6c901d28",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 84.28
+    },
+    {
+      "return": "ef1fd0252d7a",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|UNUSUAL_RETURN",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Check order and return details by hand",
+      "profit_lost": 84.15
+    },
+    {
+      "return": "48d29b07c699",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 84.02
+    },
+    {
+      "return": "48b57d26e622",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 83.77
+    },
+    {
+      "return": "a5377246aea4",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 83.59
+    },
+    {
+      "return": "8a83561f2d7a",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 83.4
+    },
+    {
+      "return": "bc413a5c2b41",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 83.33
+    },
+    {
+      "return": "6ce03863ca33",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 83.16
+    },
+    {
+      "return": "cb4eb4d1fa88",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 83.11
+    },
+    {
+      "return": "3e621083ebb0",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 82.66
+    },
+    {
+      "return": "157d88280979",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee",
+      "profit_lost": 82.49
+    },
+    {
+      "return": "6f1fdc830825",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 82.34
+    },
+    {
+      "return": "c9bdd1781b10",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 82.33
+    },
+    {
+      "return": "88525a625e11",
+      "priority": "P1_URGENT",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 82.23
+    },
+    {
+      "return": "75278b9f94fb",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER|LOW_RECOVERY|UNUSUAL_RETURN",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history; Send to vendor credit or liquidation instead of the shelf; Check order and return details by hand",
+      "profit_lost": 81.93
+    },
+    {
+      "return": "dc593269dc46",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 81.93
+    },
+    {
+      "return": "c5f34638513a",
+      "priority": "P2_HIGH",
+      "alerts": "NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|LOW_RECOVERY",
+      "recommendations": "Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Send to vendor credit or liquidation instead of the shelf",
+      "profit_lost": 81.93
+    },
+    {
+      "return": "ae579c0a68fd",
+      "priority": "P1_URGENT",
+      "alerts": "SUSPECTED_ABUSE|NEGATIVE_AFTER_RETURN|HIGH_COST_TO_SERVE|REPEAT_RETURNER",
+      "recommendations": "Hold the refund for manual review; Check return policy and restocking fee for this item; Move to a cheaper return method or charge the label fee; Put the account on a watch list and review its history",
+      "profit_lost": 81.92
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "count": 50,
+  "rate": 0.05,
+  "by_category": {
+    "Beauty": 0.0359,
+    "Electronics": 0.1036,
+    "Fashion": 0.0501,
+    "Home & Living": 0.0291,
+    "Sports": 0.0108,
+    "Toys": 0.0286
+  },
+  "rows": [
+    {
+      "return": "552778ff0409",
+      "category": "Electronics",
+      "profit_lost": 845.65
+    },
+    {
+      "return": "67594d32d7b4",
+      "category": "Electronics",
+      "profit_lost": 573.46
+    },
+    {
+      "return": "ca758d572bc2",
+      "category": "Electronics",
+      "profit_lost": 567.19
+    },
+    {
+      "return": "49fa33830d56",
+      "category": "Electronics",
+      "profit_lost": 452.86
+    },
+    {
+      "return": "59b14db526f0",
+      "category": "Electronics",
+      "profit_lost": 397.17
+    },
+    {
+      "return": "5bf8690aa8bf",
+      "category": "Fashion",
+      "profit_lost": 392.59
+    },
+    {
+      "return": "f35e502c8539",
+      "category": "Fashion",
+      "profit_lost": 339.24
+    },
+    {
+      "return": "f36403ede66f",
+      "category": "Electronics",
+      "profit_lost": 333.19
+    },
+    {
+      "return": "ca311c3ef220",
+      "category": "Electronics",
+      "profit_lost": 316.59
+    },
+    {
+      "return": "50457337dcb9",
+      "category": "Fashion",
+      "profit_lost": 255.88
+    },
+    {
+      "return": "84c3634e5ef6",
+      "category": "Electronics",
+      "profit_lost": 237.78
+    },
+    {
+      "return": "5498ef65097a",
+      "category": "Electronics",
+      "profit_lost": 231.88
+    },
+    {
+      "return": "7b3368d56b2a",
+      "category": "Fashion",
+      "profit_lost": 193.23
+    },
+    {
+      "return": "fac301c19d35",
+      "category": "Home & Living",
+      "profit_lost": 191.46
+    },
+    {
+      "return": "da6ff943a5e4",
+      "category": "Fashion",
+      "profit_lost": 188.9
+    },
+    {
+      "return": "eb3264e1a497",
+      "category": "Electronics",
+      "profit_lost": 187.72
+    },
+    {
+      "return": "1c094abc7104",
+      "category": "Fashion",
+      "profit_lost": 184.74
+    },
+    {
+      "return": "b71b8aa40d7c",
+      "category": "Electronics",
+      "profit_lost": 163.69
+    },
+    {
+      "return": "d2bbb04a1c8c",
+      "category": "Electronics",
+      "profit_lost": 157.47
+    },
+    {
+      "return": "bdb48657934f",
+      "category": "Fashion",
+      "profit_lost": 155.41
+    },
+    {
+      "return": "76d8d45f1f16",
+      "category": "Fashion",
+      "profit_lost": 153.97
+    },
+    {
+      "return": "5fbce2642090",
+      "category": "Fashion",
+      "profit_lost": 139.52
+    },
+    {
+      "return": "27bcac2e33dd",
+      "category": "Fashion",
+      "profit_lost": 134.98
+    },
+    {
+      "return": "0bdefc34059c",
+      "category": "Sports",
+      "profit_lost": 131.92
+    },
+    {
+      "return": "74efd008235c",
+      "category": "Fashion",
+      "profit_lost": 127.05
+    },
+    {
+      "return": "eeaee5de5b72",
+      "category": "Electronics",
+      "profit_lost": 124.17
+    },
+    {
+      "return": "9fa4cf30d253",
+      "category": "Electronics",
+      "profit_lost": 121.6
+    },
+    {
+      "return": "bc2525cade93",
+      "category": "Beauty",
+      "profit_lost": 118.13
+    },
+    {
+      "return": "345dd0c68a1e",
+      "category": "Electronics",
+      "profit_lost": 107.46
+    },
+    {
+      "return": "513340ac3679",
+      "category": "Fashion",
+      "profit_lost": 100.35
+    },
+    {
+      "return": "6cb158656b30",
+      "category": "Electronics",
+      "profit_lost": 99.25
+    },
+    {
+      "return": "6b973bd9c700",
+      "category": "Beauty",
+      "profit_lost": 98.04
+    },
+    {
+      "return": "ef1fd0252d7a",
+      "category": "Fashion",
+      "profit_lost": 84.15
+    },
+    {
+      "return": "75278b9f94fb",
+      "category": "Beauty",
+      "profit_lost": 81.93
+    },
+    {
+      "return": "42726ff84be1",
+      "category": "Fashion",
+      "profit_lost": 78.96
+    },
+    {
+      "return": "62da9b88a8d8",
+      "category": "Beauty",
+      "profit_lost": 74.66
+    },
+    {
+      "return": "98c04d7000ea",
+      "category": "Fashion",
+      "profit_lost": 68.57
+    },
+    {
+      "return": "c6d518a820d9",
+      "category": "Home & Living",
+      "profit_lost": 67.65
+    },
+    {
+      "return": "35af4684112d",
+      "category": "Beauty",
+      "profit_lost": 60.27
+    },
+    {
+      "return": "48a1f4029794",
+      "category": "Fashion",
+      "profit_lost": 60.02
+    },
+    {
+      "return": "38bcba604c7a",
+      "category": "Fashion",
+      "profit_lost": 55.99
+    },
+    {
+      "return": "d7f74d6aed03",
+      "category": "Beauty",
+      "profit_lost": 39.25
+    },
+    {
+      "return": "559306ab76be",
+      "category": "Home & Living",
+      "profit_lost": 35.21
+    },
+    {
+      "return": "11ad5b008ec0",
+      "category": "Toys",
+      "profit_lost": 33.44
+    },
+    {
+      "return": "40f8799e8310",
+      "category": "Toys",
+      "profit_lost": 22.61
+    },
+    {
+      "return": "95d4b806d12c",
+      "category": "Electronics",
+      "profit_lost": 21.23
+    },
+    {
+      "return": "e412607a51fb",
+      "category": "Toys",
+      "profit_lost": 18.36
+    },
+    {
+      "return": "3fe114748f2f",
+      "category": "Electronics",
+      "profit_lost": 14.81
+    },
+    {
+      "return": "b6659862cd51",
+      "category": "Electronics",
+      "profit_lost": 13.37
+    },
+    {
+      "return": "6fe6cde9982a",
+      "category": "Electronics",
+      "profit_lost": 2.05
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "insights": [
+    {
+      "severity": "HIGH",
+      "category": "Revenue Leakage",
+      "finding": "Returns erase profit on a large share of returned orders",
+      "evidence": "$71,474 of profit lost across 1,000 returns; 1,000 returns (100.0%) end below zero profit",
+      "action": "Review the return policy for the items with the largest losses and set a restocking fee this week",
+      "outcome": "decide"
+    },
+    {
+      "severity": "HIGH",
+      "category": "Product Performance",
+      "finding": "Fashion is the category with the largest profit lost",
+      "evidence": "$26,508 lost, 37.1% of the total of $71,474",
+      "action": "Check quality, description and sizing issues in Fashion and tighten its return terms",
+      "outcome": "decide"
+    },
+    {
+      "severity": "HIGH",
+      "category": "Return Abuse",
+      "finding": "A visible group of returns is flagged as suspected abuse",
+      "evidence": "192 of 1,000 returns (19.2%) carry the flag and account for $16,241 (22.7% of profit lost)",
+      "action": "Send the flagged returns to manual review before refunds are paid",
+      "outcome": "decide"
+    },
+    {
+      "severity": "MEDIUM",
+      "category": "Return Reasons",
+      "finding": "'Changed mind' is the most costly return reason",
+      "evidence": "$16,962 lost, 23.7% of profit lost",
+      "action": "Fix the cause behind this reason in listings or packaging and report it again next week",
+      "outcome": "decide"
+    },
+    {
+      "severity": "MEDIUM",
+      "category": "Cost Control",
+      "finding": "Shipping and handling take a measurable part of returned order value",
+      "evidence": "Handling and shipping equal 35.2% of returned order value ($28,088 of $79,901); 689 returns cost over a quarter of their value",
+      "action": "Renegotiate the return carrier rate and steer high-cost returns to drop-off",
+      "outcome": "decide"
+    },
+    {
+      "severity": "MEDIUM",
+      "category": "Inventory Recovery",
+      "finding": "Many returned items bring back almost none of their cost",
+      "evidence": "260 of 1,000 returns (26.0%) recover under 20% of item cost",
+      "action": "Route low recovery items to vendor credit or liquidation instead of restocking",
+      "outcome": "decide"
+    },
+    {
+      "severity": "MEDIUM",
+      "category": "Customer Retention",
+      "finding": "Accounts with repeated returns carry a disproportionate loss",
+      "evidence": "723 returns (72.3%) come from accounts with 3+ returns and hold 71.1% of profit lost",
+      "action": "Contact these accounts about fit and expectations and watch their next orders",
+      "outcome": "decide"
+    },
+    {
+      "severity": "MEDIUM",
+      "category": "Return Abuse",
+      "finding": "Statistically unusual returns hold more loss than their count suggests",
+      "evidence": "50 unusual returns (5.0%) account for 12.1% of profit lost",
+      "action": "Review the unusual returns list in the dashboard on Monday",
+      "outcome": "decide"
+    },
+    {
+      "severity": "LOW",
+      "category": "Model Output",
+      "finding": "The abuse model separates flagged from unflagged returns on unseen rows",
+      "evidence": "Held-out AUC 0.92 (above the naive 0.50); strongest signal: Item_Condition",
+      "action": "Use the score to order the review queue, not to decide refunds on its own",
+      "outcome": "decide"
+    },
+    {
+      "severity": "LOW",
+      "category": "Policy",
+      "finding": "Return label fees are often waived",
+      "evidence": "555 of 1,000 returns (55.5%) were charged no label fee",
+      "action": "Decide which return reasons should still carry a fee and apply it from next week",
+      "outcome": "decide"
+    },
+    {
+      "severity": "LOW",
+      "category": "Demand Patterns",
+      "finding": "Australia has the highest average loss per return",
+      "evidence": "$82 per return against $69 in Germany",
+      "action": "Review shipping and return terms for Australia",
+      "outcome": "decide"
+    }
+  ]
+}

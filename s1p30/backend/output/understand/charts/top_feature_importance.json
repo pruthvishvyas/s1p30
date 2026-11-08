@@ -1,0 +1,50 @@
+{
+  "id": "top_feature_importance",
+  "title": "Top predictors of suspected abuse",
+  "type": "bar",
+  "x_label": "Feature",
+  "y_label": "Importance",
+  "data": [
+    {
+      "label": "Item_Condition",
+      "value": 0.09333
+    },
+    {
+      "label": "Customer_Return_Count_Dataset",
+      "value": 0.06329
+    },
+    {
+      "label": "Customer_Type",
+      "value": 0.04253
+    },
+    {
+      "label": "Return_Reason",
+      "value": 0.02449
+    },
+    {
+      "label": "Category",
+      "value": 0.02051
+    },
+    {
+      "label": "opened_or_used_flag",
+      "value": 0.00128
+    },
+    {
+      "label": "Return_Method",
+      "value": 0.0011
+    },
+    {
+      "label": "discount_band",
+      "value": 0.00063
+    },
+    {
+      "label": "fast_return_flag",
+      "value": 6e-05
+    },
+    {
+      "label": "high_value_flag",
+      "value": 3e-05
+    }
+  ],
+  "outcome": "understand"
+}
